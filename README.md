@@ -8,3 +8,4 @@ This game has been refactored with h files, new cpp files, and include guards. A
 ![alt text](Orbit.gif)
 
 Here is a link to the GitHub Pages for testing:
+[Click me for GitHub](https://tonymythical.github.io/orbits/)
